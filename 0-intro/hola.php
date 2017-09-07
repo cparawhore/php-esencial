@@ -5,7 +5,6 @@ function saludo($persona) {
 }
 
 $persona = "Marco";
-
 saludo($persona);
 
 echo "Bienvenido al curso de PHP<br>";
