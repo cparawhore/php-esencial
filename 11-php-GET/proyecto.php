@@ -1,6 +1,10 @@
 <?php
 
-$pageTitle = "Proyecto"
+include "functions/data.php";
+
+$pageTitle = "Proyecto";
+
+$id = $_GET['id'];
 
 ?>
 
