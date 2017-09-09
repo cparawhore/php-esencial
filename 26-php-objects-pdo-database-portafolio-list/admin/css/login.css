@@ -1,0 +1,13 @@
+body {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.login-form {
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  border: 1px solid #c3c3c3;
+  padding: 1.5em;
+  width: 50%;
+  margin: 0 auto;
+}

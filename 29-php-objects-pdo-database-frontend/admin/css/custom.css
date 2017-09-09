@@ -1,0 +1,19 @@
+#main {
+  margin-top: 2em;
+}
+
+navbar {
+  border-bottom: 1px solid #444;
+}
+
+h1 {
+  font-size: 1.2em;
+  font-weight: 300;
+  padding-bottom: 10px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid #f9f9f9;
+}
+
+table {
+  margin-top: 30px;
+}
